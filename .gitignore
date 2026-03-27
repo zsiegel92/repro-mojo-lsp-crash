@@ -1,0 +1,7 @@
+__pycache__/
+__mojocache__/
+.lsp-debug/
+
+# pixi environments
+.pixi
+*.egg-info
